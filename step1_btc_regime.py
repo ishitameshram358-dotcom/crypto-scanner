@@ -47,7 +47,7 @@ from datetime import datetime
 # Nothing magic here, just settings the rest of the code reads.
 # --------------------------------------------------------------------
 
-EXCHANGE_NAME = "binance"          # where we pull public price data from
+EXCHANGE_NAME = "kucoin"         # where we pull public price data from
 SYMBOL = "BTC/USDT"                # the asset we're checking the "regime" of
 
 TIMEFRAMES = {

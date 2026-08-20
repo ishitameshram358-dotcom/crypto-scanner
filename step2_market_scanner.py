@@ -41,7 +41,7 @@ from step1_btc_regime import determine_btc_regime, fetch_candles, calculate_tren
 # CONFIGURATION
 # --------------------------------------------------------------------
 
-EXCHANGE_NAME = "binance"
+EXCHANGE_NAME = "kucoin"
 
 # The APPROVED coin list from the spec (Tier 1 + Tier 2).
 # Meme coins are intentionally NOT in this list — per Part 4,
